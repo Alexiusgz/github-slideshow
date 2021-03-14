@@ -2,5 +2,5 @@
 layout: slide
 title. "Welcome to our second slide!"
 ---
-Hallo World
+Wahnsinn ist immer das Selbe zu tun, aber ein anderes Ergebnis zu erwarten.
 Use the left arrow to go back!
